@@ -7,4 +7,5 @@ export const CONFIG = {
   INITIAL_SPEED: 4,
   MAX_SPEED: 20,
   SPEED_STEP: 0.4,
+  hederHeight: 60,
 };
